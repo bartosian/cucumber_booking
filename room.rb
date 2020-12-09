@@ -13,4 +13,8 @@ class Room
   def available?
     @state == :available
   end
+
+  def reserve
+    @state = :reserved
+  end
 end
