@@ -33,6 +33,7 @@ Feature: Booking a Room
       |      6 |                  |
       |      7 |                  |
 
+  @foo
   Scenario Outline: Some rooms are not available
     Given the rooms "<reserved_rooms>" are reserved
     When visitor provides the following booking details

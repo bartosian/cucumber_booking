@@ -24,12 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2eb2849c-6786-4277-a21c-b5a6a9fabf2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/booking_a_room.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/booking_a_room.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/booking_with_joy_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/booking_with_joy_steps.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hotel.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room.rb" beforeDir="false" afterPath="$PROJECT_DIR$/room.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607541669294</updated>
-      <workItem from="1607541673850" duration="4174000" />
+      <workItem from="1607541673850" duration="7346000" />
     </task>
     <servers />
   </component>
@@ -75,5 +72,9 @@
       <screen x="4352" y="-869" width="3440" height="1417" />
     </state>
     <state x="4758" y="-562" key="SettingsEditor/1792.-869.2560.1352/4352.-869.3440.1417/0.23.1792.1097@4352.-869.3440.1417" timestamp="1607542226047" />
+    <state x="6148" y="-869" width="1633" height="1338" key="dock-window-1" timestamp="1607547775053">
+      <screen x="4352" y="-869" width="3440" height="1417" />
+    </state>
+    <state x="6148" y="-869" width="1633" height="1338" key="dock-window-1/1792.-869.2560.1417/4352.-869.3440.1417/0.23.1792.1051@4352.-869.3440.1417" timestamp="1607547775053" />
   </component>
 </project>
